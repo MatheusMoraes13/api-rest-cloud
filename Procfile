@@ -1,0 +1,1 @@
+weeb: java -jar target/classes/me/dio/api_rest_cloud/ApiRestCloudApplication.class
